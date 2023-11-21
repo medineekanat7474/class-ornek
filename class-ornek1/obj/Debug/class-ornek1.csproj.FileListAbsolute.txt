@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\class-ornek1\class-ornek1\bin\Debug\class-ornek1.exe.config
+C:\Users\User\source\repos\class-ornek1\class-ornek1\bin\Debug\class-ornek1.exe
+C:\Users\User\source\repos\class-ornek1\class-ornek1\bin\Debug\class-ornek1.pdb
+C:\Users\User\source\repos\class-ornek1\class-ornek1\obj\Debug\class-ornek1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\class-ornek1\class-ornek1\obj\Debug\class-ornek1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\class-ornek1\class-ornek1\obj\Debug\class_ornek1.Form1.resources
+C:\Users\User\source\repos\class-ornek1\class-ornek1\obj\Debug\class_ornek1.Properties.Resources.resources
+C:\Users\User\source\repos\class-ornek1\class-ornek1\obj\Debug\class-ornek1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\class-ornek1\class-ornek1\obj\Debug\class-ornek1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\class-ornek1\class-ornek1\obj\Debug\class-ornek1.exe
+C:\Users\User\source\repos\class-ornek1\class-ornek1\obj\Debug\class-ornek1.pdb
